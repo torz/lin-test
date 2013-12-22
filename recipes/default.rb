@@ -6,5 +6,8 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-include_recipe "wordpress"
+include_recipe "fail2ban"
+include_recipe "postfix"
+include_recipe "ntp"
 include_recipe "memcached"
+include_recipe "wordpress"
