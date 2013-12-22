@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lin-test Cookbook
 =================
 TODO: Enter the cookbook description here.
@@ -66,3 +67,9 @@ e.g.
 License and Authors
 -------------------
 Authors: TODO: List authors
+=======
+lin-test
+========
+
+lin-test chef cookbook
+>>>>>>> cd87f5236317e763391523051d171ca3163a7d78
